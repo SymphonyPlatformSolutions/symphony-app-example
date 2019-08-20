@@ -1,0 +1,12 @@
+{
+  "applications": [{
+      "type": "sandbox",
+      "id": "helloWorldApp",
+      "name": "Hello World",
+      "description": "An example app",
+      "publisher": "Symphony Platform Solutions",
+      "url": "https://localhost:8080/controller.html",
+      "icon": "https://localhost:8080/img/icon.png",
+      "domain": "localhost"
+  }]
+}

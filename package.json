@@ -7,8 +7,12 @@
     "start": "webpack-dev-server --https --mode development --open",
     "build": "webpack --mode production"
   },
-  "author": "",
-  "license": "ISC",
+  "author": "Symphony Platform Solutions",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SymphonyPlatformSolutions/symphony-app-example.git"
+  },
   "devDependencies": {
     "@babel/core": "^7.5.5",
     "@babel/preset-env": "^7.5.5",
